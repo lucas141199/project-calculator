@@ -1,8 +1,11 @@
 <?php
 /*
 Plugin Name: Segundo plugin
-Description: Meu primeiro plugin se consiste em colocar um slider na home do site
+Description: Meu segundo plugin se consiste em colocar uma calculadora na home ou post do site
 Author: Lucas Vinicius Salvador Lopes.
+Version:     20160911
+Author URI:  https://github.com/lucas141199
+License:     GPL2
 */
 
 function relacionados_function( $atts ){
